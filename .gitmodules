@@ -1,0 +1,3 @@
+[submodule "app/barong"]
+	path = app/barong
+	url = https://github.com/gitboyzorro5/barong.git
