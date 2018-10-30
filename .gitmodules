@@ -6,4 +6,5 @@
 	url = https://github.com/gitboyzorro5/peatio.git
 [submodule "app/trading-ui"]
 	path = app/trading-ui
-	url = https://github.com/gitboyzorro5/trading-ui.git
+	url = https://github.com/gitboyzorro5/peatio-trading-ui.git
+
