@@ -1,3 +1,9 @@
 [submodule "app/barong"]
 	path = app/barong
 	url = https://github.com/gitboyzorro5/barong.git
+[submodule "app/peatio"]
+	path = app/peatio
+	url = https://github.com/gitboyzorro5/peatio.git
+[submodule "app/trading-ui"]
+	path = app/trading-ui
+	url = https://github.com/gitboyzorro5/trading-ui.git
