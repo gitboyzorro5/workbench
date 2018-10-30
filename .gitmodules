@@ -8,3 +8,9 @@
 	path = app/trading-ui
 	url = https://github.com/gitboyzorro5/peatio-trading-ui.git
 
+[submodule "test/integration"]
+	path = test/integration
+	url = https://github.com/gitboyzorro5/integration.git
+[submodule "test/toolbox/toolbox"]
+	path = test/toolbox/toolbox
+	url = https://github.com/gitboyzorro5/toolbox.git
